@@ -1,4 +1,6 @@
 {-# LANGUAGE CPP #-}
+{-# LANGUAGE NondecreasingIndentation #-}
+
 import Control.Monad (unless)
 import Distribution.Simple
 import Distribution.Simple.LocalBuildInfo
